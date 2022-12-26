@@ -1,2 +1,2 @@
 # flappy-bird-pygame
-flappy bird using python and pygame
+flappy bird using pygame
